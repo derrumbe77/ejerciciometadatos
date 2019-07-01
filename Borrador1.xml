@@ -1,0 +1,29 @@
+
+<teiHeader>
+   <fileDesc>
+        <titleStmt>
+           <title><b>Hot Books in the Cold War</b></title>
+           <author><b>Alfred A. Reisch</b></author>
+        </titleStmt>
+       <editionStmt>
+           <edition>edición digital</edition>
+               <respStmt>
+                   <resp>edición TEI</resp>
+                   <name>Martínez Hernández, Carlos Alberto</name>
+               </respStmt>
+       </editionStmt>
+       <publicationStmt>
+                  <publisher>Trabajo final de metadatos, vocabularios controlados</publisher>
+       </publicationStmt>
+       <sourceDesc>
+           <listBibl>
+               <bibl>
+                   <title>Hot Books in the Cold War</title>
+                   <pubPlace>Budapest, Hungría</pubPlace>
+                   <publisher>CEUPress</publisher>
+                   <date>2013</date>
+               </bibl>
+           </listBibl>
+       </sourceDesc>
+   </fileDesc>
+</teiHeader>
